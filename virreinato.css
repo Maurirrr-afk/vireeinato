@@ -1,0 +1,32 @@
+body{
+    display: block;
+    background-image:linear-gradient(white, rgb(112, 76, 76), rgb(111, 57, 57));
+}
+header{
+    background-color: rgb(91, 55, 55);
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+h2{
+    background-color: rgb(123, 95, 95);
+    color: white;
+    text-shadow: 5px 5px black;
+    padding: 10px;
+    text-align: center;
+}
+p{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px;
+}
